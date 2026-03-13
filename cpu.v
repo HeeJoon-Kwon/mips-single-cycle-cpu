@@ -1,6 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////
 // MODULE: CPU for TSC microcomputer: cpu.v
-// Author: Kwon Heejun, Kim Dohyun
 // Description: single cycle cpu
 
 // DEFINITIONS
